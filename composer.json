@@ -1,0 +1,18 @@
+{
+    "name": "qixinyun/baotou-portal-local-config",
+    "description": "baotou portal local config",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qixinyun",
+            "email": "alex@qixinyun.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SmartyConfig\\": "src/SmartyConfig"
+        }
+    }
+}
